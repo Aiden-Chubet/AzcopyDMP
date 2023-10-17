@@ -1,0 +1,1 @@
+﻿.\azcopy cp "C:\Users\ladaley\Desktop\expdp_cmhac_20230321.dmp" "https://paclientsecured.blob.core.windows.net/ochincommunitymentalhealth/SourceData?sv=2019-12-12&st=2023-03-20T00%3A00%3A00Z&se=2023-04-04T23%3A59%3A00Z&sr=c&sp=racwdxlt&sig=JSlVSKxQfobxpvuKegkiTWeVbA4OW9BNWn%2Bm4Vdjjzs%3D" --recursive=true --overwrite=false --log-level=ERROR
